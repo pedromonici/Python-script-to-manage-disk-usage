@@ -15,5 +15,7 @@ And then just type the following commands:
 `$ cd DiskUsage`
 
 `$ python disk_report.py (Directory)` , i.e: `$ python disk_report /home`
+ 
+ In some cases, you need the root permission to access the directory, then just type with `sudo`
 
 After that, the script will generate a .csv file with the results of the disk report given in the command line!
